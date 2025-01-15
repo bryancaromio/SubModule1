@@ -12,4 +12,8 @@ public struct SubModule1 {
     public func printText() {
         print(text)
     }
+
+    public func printText2() {
+        print(text, "Helllllllll")
+    }
 }
